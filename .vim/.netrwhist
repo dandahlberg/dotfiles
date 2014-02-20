@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/ddahlberg/Developer/portal/cust-portal'
+let g:netrw_dirhist_2='/Users/ddahlberg/Documents'
+let g:netrw_dirhist_3='/Users/ddahlberg/Notes/cm'
+let g:netrw_dirhist_4='/Users/ddahlberg/Developer/scripts'
+let g:netrw_dirhist_5='/Users/ddahlberg/Developer/scripts/ch202'
+let g:netrw_dirhist_6='/Users/ddahlberg/Developer/scripts'
+let g:netrw_dirhist_7='/Users/ddahlberg/Developer/portal/cust-portal/bitsight/bitsightapp'
+let g:netrw_dirhist_8='/Users/dandahlberg/Developer/scripts/domains'
